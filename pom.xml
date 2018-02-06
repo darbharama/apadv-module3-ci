@@ -14,8 +14,8 @@
 
 		<mule.version>3.8.4</mule.version>
     	<mule.tools.version>1.2</mule.tools.version>
-    	<uid>skante</uid>
-    	<pwd>Training1</pwd>
+    	<uid>darbharama</uid>
+    	<pwd>Password123</pwd>
 	</properties>
 
 	<build>
