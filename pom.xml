@@ -49,7 +49,7 @@
         <password>${pwd}</password>
 	      <workerType>Micro</workerType>
         <redeploy>true</redeploy>
-        <environment>Sandbox</environment>
+        <environment>Test-001-Sandbox</environment>
     </configuration>
     <executions>
         <execution>
