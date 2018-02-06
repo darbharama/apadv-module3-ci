@@ -15,7 +15,7 @@
 		<mule.version>3.8.4</mule.version>
     	<mule.tools.version>1.2</mule.tools.version>
     	<uid>skante</uid>
-    	<password>Training1</password>
+    	<pwd>Training1</pwd>
 	</properties>
 
 	<build>
